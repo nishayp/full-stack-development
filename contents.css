@@ -1,0 +1,20 @@
+h1
+{
+  color:red;background:yellow;
+}
+.firstdiv
+{
+  color:blue;background:url("https://cdn.pixabay.com/photo/2016/11/29/04/19/ocean-1867285_960_720.jpg")
+}
+.seconddiv
+{
+color:rgba(221,230,48);background-color:red;
+}
+ul
+{
+  color:blue;background-color:aqua;
+}
+p
+{
+  color:yellow;background-color:grey;
+}
